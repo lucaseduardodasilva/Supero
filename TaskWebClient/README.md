@@ -6,22 +6,48 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Intruções para inicializar o projeto:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+verificar a connectionString dentro do AppSettings.json, está configurada para usar autenticação do windows
 
-## Build
+"DevConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TaskDB;Trusted_Connection=True;MultipleActiveResultSets=True;"
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Substituir o primeiro parametro Server= para o nome do servidor da máquina que está rodando o projeto, ex minha máquina Server=(localdb)\MSSQLLocalDB
 
-## Running unit tests
+Autenticação SQL: usar autenticação windows
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Para criar o banco de dados, abrir o Visual Studio, no Package Manager Console
+selecionar como Default Project: Models 
+em seguida, executar o comando update-database.
 
-## Running end-to-end tests
+Neste momento o banco de dados será criado.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Executar o projeto no VS, e executar o projeto front-end utilizando o comando "npm start", ou comando de preferência.
 
-## Further help
+## Tecnologias e padrões utilizados:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Projeto Backend e Frontend desacoplados
+
+Solid
+
+XUnit para testes unitários
+
+C# .Netcore
+
+Angular 8
+
+Toastr para notificações web
+
+Bootstrap
+
+CleanCode
+
+SQL Server
+
+Mapper manual de entidade para Dto
+
+.Net EntityFramework com migrations
+
+IoC injeção de dependência nativa do .netCore com singleton, configurada no arquivo startup.cs.
+
+CORS
