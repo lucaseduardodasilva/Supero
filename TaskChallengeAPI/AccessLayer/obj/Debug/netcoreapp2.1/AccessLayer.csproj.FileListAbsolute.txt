@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\bin\Debug\netcoreapp2.1\AccessLayer.deps.json
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\bin\Debug\netcoreapp2.1\AccessLayer.dll
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\bin\Debug\netcoreapp2.1\AccessLayer.pdb
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\bin\Debug\netcoreapp2.1\Exceptions.dll
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\bin\Debug\netcoreapp2.1\Interfaces.dll
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\bin\Debug\netcoreapp2.1\Exceptions.pdb
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\bin\Debug\netcoreapp2.1\Interfaces.pdb
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\obj\Debug\netcoreapp2.1\AccessLayer.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\obj\Debug\netcoreapp2.1\AccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\obj\Debug\netcoreapp2.1\AccessLayer.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\obj\Debug\netcoreapp2.1\AccessLayer.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\obj\Debug\netcoreapp2.1\AccessLayer.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\obj\Debug\netcoreapp2.1\AccessLayer.dll
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\AccessLayer\obj\Debug\netcoreapp2.1\AccessLayer.pdb

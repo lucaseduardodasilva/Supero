@@ -1,0 +1,8 @@
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.deps.json
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.dll
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.pdb
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.dll
+C:\Users\Lucas\Desktop\Tasks\TaskChallengeAPI\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.pdb

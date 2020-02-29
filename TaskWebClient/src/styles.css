@@ -1,0 +1,19 @@
+input.ng-touched.ng-invalid{
+  border-color: #dc3545
+}
+
+input.ng-valid{
+  border-color: #28a745
+}
+
+#toast-container > div {
+  opacity:1;
+}
+
+h1.logo{
+  display:block;
+  width: 300px;
+  height: 200px;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrTp9KQMmkyT952D9pUH88YD7fa9urjY4nzAF238aQznTCAD_n) no-repeat;
+  width: 100%; height: 200px;
+}
